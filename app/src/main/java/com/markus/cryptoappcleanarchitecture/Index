@@ -1,0 +1,23 @@
+Dto == Data Transfer Object
+
+In Kotlin, the invoke operator is a special function that can be defined in a class,
+allowing instances of that class to be called as if they were functions
+
+di = Dependency Injection: Helps to make our dependencies replaceable so we can use @Inject in our classes instead of
+hardcoding the dependencies
+
+:: creates a member reference or a class reference.
+
+->
+
+separates the parameters and body of a lambda expression.
+
+separates the parameters and return type declaration in a function type.
+
+separates the condition and body of a when expression branch.
+
+REF: 'KOTLIN KEYWORDS AND OPERATORS'
+
+Purpose of viewModel is to maintain UI State
+
+@SerializedName("") An annotation that indicates this member should be serialized to JSON with the provided name value as its field name.
