@@ -70,6 +70,7 @@ dependencies {
     debugImplementation("androidx.compose.ui:ui-test-manifest")
 
     // Compose dependencies
+    //accompanist library
     implementation("com.google.accompanist:accompanist-flowlayout:0.17.0")
 
     // Coroutines
@@ -97,4 +98,7 @@ dependencies {
 
     implementation("com.squareup.okhttp3:okhttp:5.0.0-alpha.2")
     implementation("com.squareup.okhttp3:logging-interceptor:5.0.0-alpha.2")
+
+    //profile installer
+    implementation("androidx.profileinstaller:profileinstaller:1.3.1")
 }
